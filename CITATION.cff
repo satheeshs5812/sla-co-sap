@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or the benchmark instances, please cite the paper below."
+title: "SLA-CO-SAP: code, benchmark instances and results"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "YYYY-MM-DD"
+repository-code: "https://github.com/[owner]/sla-co-sap"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+preferred-citation:
+  type: article
+  title: "An SLA-Constrained Optimization Framework for SAP Upgrades, Migration, and Maintenance on Hyperscalers (SLA-CO-SAP)"
+  authors:
+    - family-names: "[Family name]"
+      given-names: "[Given name]"
+  journal: "[Journal]"
+  year: "[Year]"
+  volume: "[Volume]"
+  doi: "[DOI]"
